@@ -1,0 +1,55 @@
+
+.text{
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+
+    
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    color:#e9d35b;
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    color:#e9d35b;
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.Project{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    color:#e9d35b;
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.message{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    color:#e9d35b;
+    padding:1rem 0;
+    font-weight: normal;
+ 
+}
+
+#input{
+    width: 30vw;
+    height: 30px;
+}
